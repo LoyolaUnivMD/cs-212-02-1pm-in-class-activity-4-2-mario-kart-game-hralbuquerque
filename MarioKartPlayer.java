@@ -50,5 +50,6 @@ public class MarioKartPlayer {
         Peach.boost();
         System.out.println("Player 2 received a boost, new speed: " + Peach.speed);
 
+
     }
 }
